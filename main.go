@@ -13,7 +13,6 @@ import (
 // @title Hello API
 // @version 1.0
 // @description This is a sample server Hello server.
-// @host localhost:8080
 // @BasePath /
 func main() {
 	e := echo.New()
